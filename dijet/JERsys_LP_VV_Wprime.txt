@@ -1,6 +1,6 @@
 mass JERUp JERDown
 
-Wprime_WZ_M1000 0.000 -1.000
+Wprime_WZ_M1000 0.022 0.022
 Wprime_WZ_M1200 0.000 0.000
 Wprime_WZ_M1400 0.000 0.000
 Wprime_WZ_M1600 0.000 0.000
