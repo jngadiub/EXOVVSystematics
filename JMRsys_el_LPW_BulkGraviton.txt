@@ -1,13 +1,14 @@
 mass JMRUp JMRDown
 
-BulkG_WW_lvjj_M800 3.209 4.278
-BulkG_WW_lvjj_M1200 -1.105 1.105
-BulkG_WW_lvjj_M1400 -4.396 -1.319
-BulkG_WW_lvjj_M1600 -3.630 -0.907
-BulkG_WW_lvjj_M1800 0.524 1.224
-BulkG_WW_lvjj_M2000 -2.098 0.979
-BulkG_WW_lvjj_M2500 1.306 0.475
-BulkG_WW_lvjj_M3000 -0.864 1.944
-BulkG_WW_lvjj_M3500 0.731 1.358
-BulkG_WW_lvjj_M4000 0.320 0.534
-BulkG_WW_lvjj_M4500 -3.261 -0.435
+BulkG_WW_lvjj_M800 -7.692 -2.885
+BulkG_WW_lvjj_M1000 -1.042 1.042
+BulkG_WW_lvjj_M1200 1.136 4.261
+BulkG_WW_lvjj_M1400 0.222 2.217
+BulkG_WW_lvjj_M1600 -1.661 0.369
+BulkG_WW_lvjj_M1800 -0.349 3.141
+BulkG_WW_lvjj_M2000 -3.693 1.562
+BulkG_WW_lvjj_M2500 -2.827 -0.589
+BulkG_WW_lvjj_M3000 -4.570 -0.106
+BulkG_WW_lvjj_M3500 -0.512 2.047
+BulkG_WW_lvjj_M4000 -2.328 0.741
+BulkG_WW_lvjj_M4500 1.544 1.764

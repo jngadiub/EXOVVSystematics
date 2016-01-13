@@ -1,0 +1,13 @@
+mass JESUp JESDown
+
+Zprime_WZ_lvjj_M800 10.891 22.698
+Zprime_WZ_lvjj_M1000 -5.194 4.747
+Zprime_WZ_lvjj_M1200 -4.601 3.613
+Zprime_WZ_lvjj_M1400 -4.142 3.465
+Zprime_WZ_lvjj_M1800 -3.678 2.405
+Zprime_WZ_lvjj_M2000 -3.407 2.465
+Zprime_WZ_lvjj_M2500 -3.341 2.805
+Zprime_WZ_lvjj_M3000 -3.923 2.671
+Zprime_WZ_lvjj_M3500 -3.563 2.597
+Zprime_WZ_lvjj_M4000 -4.051 2.881
+Zprime_WZ_lvjj_M4500 -4.205 2.791

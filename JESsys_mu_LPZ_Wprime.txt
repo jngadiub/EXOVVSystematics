@@ -1,14 +1,14 @@
 mass JESUp JESDown
 
-Wprime_WZ_lvjj_M800 5.430 -7.692
-Wprime_WZ_lvjj_M1000 4.217 -2.711
-Wprime_WZ_lvjj_M1200 9.091 -6.534
-Wprime_WZ_lvjj_M1400 7.493 -8.357
-Wprime_WZ_lvjj_M1600 11.055 -8.794
-Wprime_WZ_lvjj_M1800 10.244 -12.195
-Wprime_WZ_lvjj_M2000 10.233 -10.930
-Wprime_WZ_lvjj_M2500 12.736 -14.151
-Wprime_WZ_lvjj_M3000 13.755 -14.410
-Wprime_WZ_lvjj_M3500 13.102 -13.295
-Wprime_WZ_lvjj_M4000 12.177 -13.653
-Wprime_WZ_lvjj_M4500 9.611 -11.656
+Wprime_WZ_lvjj_M800 2.727 -4.091
+Wprime_WZ_lvjj_M1000 2.115 -1.511
+Wprime_WZ_lvjj_M1200 3.933 -4.775
+Wprime_WZ_lvjj_M1400 3.429 -4.571
+Wprime_WZ_lvjj_M1600 7.614 -6.091
+Wprime_WZ_lvjj_M1800 4.914 -7.617
+Wprime_WZ_lvjj_M2000 8.726 -6.604
+Wprime_WZ_lvjj_M2500 7.981 -8.685
+Wprime_WZ_lvjj_M3000 9.761 -11.063
+Wprime_WZ_lvjj_M3500 7.514 -10.790
+Wprime_WZ_lvjj_M4000 8.503 -10.351
+Wprime_WZ_lvjj_M4500 6.967 -8.811

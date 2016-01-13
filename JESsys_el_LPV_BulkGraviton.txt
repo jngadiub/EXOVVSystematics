@@ -1,0 +1,14 @@
+mass JESUp JESDown
+
+BulkG_WW_lvjj_M800 0.314 -1.258
+BulkG_WW_lvjj_M1000 1.874 -0.937
+BulkG_WW_lvjj_M1200 1.035 -0.207
+BulkG_WW_lvjj_M1400 0.513 -1.880
+BulkG_WW_lvjj_M1600 1.322 -1.468
+BulkG_WW_lvjj_M1800 0.983 -2.107
+BulkG_WW_lvjj_M2000 1.752 -1.636
+BulkG_WW_lvjj_M2500 2.820 -2.216
+BulkG_WW_lvjj_M3000 1.792 -3.584
+BulkG_WW_lvjj_M3500 3.036 -3.469
+BulkG_WW_lvjj_M4000 3.362 -3.621
+BulkG_WW_lvjj_M4500 3.510 -3.870

@@ -1,0 +1,13 @@
+mass JMRUp JMRDown
+
+Zprime_WZ_lvjj_M800 -0.454 0.133
+Zprime_WZ_lvjj_M1000 -0.152 0.218
+Zprime_WZ_lvjj_M1200 -0.189 0.324
+Zprime_WZ_lvjj_M1400 -0.683 0.166
+Zprime_WZ_lvjj_M1800 -0.450 0.407
+Zprime_WZ_lvjj_M2000 -0.537 0.247
+Zprime_WZ_lvjj_M2500 -0.622 0.316
+Zprime_WZ_lvjj_M3000 -0.677 0.241
+Zprime_WZ_lvjj_M3500 -0.490 0.354
+Zprime_WZ_lvjj_M4000 -0.694 0.500
+Zprime_WZ_lvjj_M4500 -0.450 0.582
